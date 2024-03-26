@@ -1,6 +1,6 @@
 # object_detection_app
 
-A new Flutter project.
+I've created this repository to manage the code for my thesis, which I developed during my Master's in AI program at NMIMS from 2022 to 2024.
 
 ## Getting Started
 
